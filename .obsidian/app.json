@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "showFrontmatter": true,
+  "attachmentFolderPath": "Assets/attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true
+}

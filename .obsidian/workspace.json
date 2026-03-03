@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/音视频开发/WebRTC/02-核心API/MediaStream.md",
+                "file": "03-Resources/音视频开发/WebRTC/07-调试分析/webrtc-internals.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MediaStream"
+              "title": "webrtc-internals"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Resources/音视频开发/WebRTC/02-核心API/MediaStream.md",
+                "file": "03-Resources/音视频开发/WebRTC/07-调试分析/webrtc-internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "MediaStream 的反向链接列表"
+              "title": "webrtc-internals 的反向链接列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Resources/前端开发/Vue/基础/响应式系统.md",
+                "file": "03-Resources/音视频开发/WebRTC/07-调试分析/webrtc-internals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "响应式系统 的大纲"
+              "title": "webrtc-internals 的大纲"
             }
           },
           {
@@ -194,13 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4f14c5ddc466580",
+  "active": "5efc73199055a120",
   "lastOpenFiles": [
+    "03-Resources/音视频开发/WebRTC/WebRTC 知识体系.md",
+    "03-Resources/音视频开发/WebRTC/06-质量控制/码率自适应.md",
     "03-Resources/音视频开发/WebRTC/07-调试分析/问题排查指南.md",
+    "03-Resources/音视频开发/WebRTC/02-核心API/MediaStream.md",
     "03-Resources/音视频开发/WebRTC/07-调试分析/webrtc-internals.md",
     "03-Resources/音视频开发/WebRTC/07-调试分析/WebRTC统计信息.md",
     "03-Resources/音视频开发/WebRTC/06-质量控制/延迟优化.md",
-    "03-Resources/音视频开发/WebRTC/06-质量控制/码率自适应.md",
     "03-Resources/音视频开发/WebRTC/06-质量控制/网络检测.md",
     "03-Resources/音视频开发/WebRTC/06-质量控制/QoS策略.md",
     "03-Resources/音视频开发/WebRTC/05-网络传输/JitterBuffer.md",
@@ -210,10 +212,8 @@
     "03-Resources/音视频开发/WebRTC/02-核心API/getUserMedia.md",
     "03-Resources/音视频开发/WebRTC/01-基础概念/WebRTC概述.md",
     "03-Resources/音视频开发/WebRTC/05-网络传输/RTP-RTCP协议.md",
-    "03-Resources/音视频开发/WebRTC/WebRTC 知识体系.md",
     "03-Resources/音视频开发/WebRTC/03-连接建立/NAT穿透.md",
     "03-Resources/音视频开发/WebRTC/02-核心API/RTCDataChannel.md",
-    "03-Resources/音视频开发/WebRTC/02-核心API/MediaStream.md",
     "03-Resources/音视频开发/WebRTC/04-媒体处理/编解码器.md",
     "03-Resources/音视频开发/WebRTC/03-连接建立/信令服务器.md",
     "03-基础概念/WebRTC概述.md",

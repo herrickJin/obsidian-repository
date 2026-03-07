@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3001366a835441",
+        "id": "b32ba7198467f8d5",
         "type": "tabs",
         "children": [
           {
-            "id": "7f6c686839acbe46",
+            "id": "370f0e8e1d6db8c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Resources/音视频开发/WebRTC/07-调试分析/webrtc-internals.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "webrtc-internals"
+              "title": "新标签页"
             }
           }
         ]
@@ -194,34 +190,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5efc73199055a120",
+  "active": "370f0e8e1d6db8c8",
   "lastOpenFiles": [
-    "03-Resources/音视频开发/WebRTC/WebRTC 知识体系.md",
-    "03-Resources/音视频开发/WebRTC/06-质量控制/码率自适应.md",
-    "03-Resources/音视频开发/WebRTC/07-调试分析/问题排查指南.md",
-    "03-Resources/音视频开发/WebRTC/02-核心API/MediaStream.md",
-    "03-Resources/音视频开发/WebRTC/07-调试分析/webrtc-internals.md",
-    "03-Resources/音视频开发/WebRTC/07-调试分析/WebRTC统计信息.md",
-    "03-Resources/音视频开发/WebRTC/06-质量控制/延迟优化.md",
-    "03-Resources/音视频开发/WebRTC/06-质量控制/网络检测.md",
-    "03-Resources/音视频开发/WebRTC/06-质量控制/QoS策略.md",
-    "03-Resources/音视频开发/WebRTC/05-网络传输/JitterBuffer.md",
-    "03-Resources/音视频开发/WebRTC/05-网络传输/FEC前向纠错.md",
-    "03-Resources/音视频开发/WebRTC/05-网络传输/拥塞控制.md",
-    "03-Resources/音视频开发/WebRTC/05-网络传输/SRTP加密.md",
-    "03-Resources/音视频开发/WebRTC/02-核心API/getUserMedia.md",
-    "03-Resources/音视频开发/WebRTC/01-基础概念/WebRTC概述.md",
-    "03-Resources/音视频开发/WebRTC/05-网络传输/RTP-RTCP协议.md",
-    "03-Resources/音视频开发/WebRTC/03-连接建立/NAT穿透.md",
-    "03-Resources/音视频开发/WebRTC/02-核心API/RTCDataChannel.md",
-    "03-Resources/音视频开发/WebRTC/04-媒体处理/编解码器.md",
-    "03-Resources/音视频开发/WebRTC/03-连接建立/信令服务器.md",
-    "03-基础概念/WebRTC概述.md",
-    "03-Resources/音视频开发/WebRTC/03-连接建立/SDP会话描述.md",
-    "03-Resources/音视频开发/WebRTC/03-连接建立/ICE候选.md",
-    "03-Resources/音视频开发/WebRTC/03-连接建立/STUN-TURN服务器.md",
-    "03-Resources/音视频开发/WebRTC/02-核心API/RTCPeerConnection.md",
-    "03-Resources/前端开发/Vue/README.md",
+    "03-Resources/前端开发/Chromium/21-贡献与社区.md",
+    "03-Resources/前端开发/Chromium/20-源码阅读实践.md",
+    "03-Resources/前端开发/Chromium/19-调试工具使用.md",
+    "03-Resources/前端开发/Chromium/18-定制与嵌入.md",
+    "03-Resources/前端开发/Chromium/17-源码编译与调试.md",
+    "03-Resources/前端开发/Chromium/16-性能优化深入.md",
+    "03-Resources/前端开发/Chromium/15-内存管理.md",
+    "03-Resources/前端开发/Chromium/14-扩展系统.md",
+    "03-Resources/前端开发/Chromium/13-GPU加速.md",
+    "03-Resources/前端开发/Chromium/12-安全模型.md",
+    "03-Resources/前端开发/Chromium/11-IPC与Mojo.md",
+    "03-Resources/前端开发/Chromium/10-渲染管线详解.md",
+    "03-Resources/前端开发/Chromium/09-存储与数据.md",
+    "03-Resources/前端开发/Chromium/08-Skia图形库.md",
+    "03-Resources/前端开发/Chromium/07-网络栈.md",
+    "03-Resources/前端开发/Chromium/06-V8引擎.md",
+    "03-Resources/前端开发/Chromium/05-Blink渲染引擎.md",
+    "03-Resources/前端开发/Electron/18-开发工具链.md",
+    "03-Resources/前端开发/Chromium/04-代码结构概览.md",
+    "03-Resources/前端开发/Chromium/03-多线程模型.md",
+    "03-Resources/前端开发/Chromium/02-多进程架构.md",
+    "03-Resources/前端开发/Chromium/01-概述与发展历史.md",
+    "03-Resources/前端开发/Chromium/README.md",
+    "03-Resources/前端开发/Chromium",
+    "技能树.md",
+    "00-Inbox/自驾游方案.md",
+    "自驾游方案.pdf",
+    "03-Resources/前端开发/Electron/03-窗口管理.md",
     "03-基础概念",
     "03-Resources/音视频开发/WebRTC/08-实战应用",
     "03-Resources/音视频开发/WebRTC/07-调试分析",
@@ -229,8 +227,6 @@
     "03-Resources/音视频开发/WebRTC/05-网络传输",
     "03-Resources/音视频开发/WebRTC/04-媒体处理",
     "03-Resources/音视频开发/WebRTC/03-连接建立",
-    "03-Resources/音视频开发/WebRTC/02-核心API",
-    "03-Resources/音视频开发/WebRTC/01-基础概念",
-    "03-Resources/Chrome源码学习"
+    "03-Resources/音视频开发/WebRTC/02-核心API"
   ]
 }
